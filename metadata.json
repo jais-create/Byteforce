@@ -1,0 +1,6 @@
+{
+  "name": "StockSense – AI Inventory Replenishment Agent",
+  "description": "Enterprise AI-powered inventory management, demand forecasting, and automated replenishment platform. Predict Smarter. Restock Faster. Never Run Out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
